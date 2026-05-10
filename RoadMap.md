@@ -12,9 +12,9 @@ Objectif : créer une base propre pour le projet.
 
 ### À faire
 
-- [ ] Créer le repository GitHub
-- [ ] Ajouter un `README.md`
-- [ ] Ajouter un `ROADMAP.md`
+- [X] Créer le repository GitHub
+- [X] Ajouter un `README.md`
+- [X] Ajouter un `ROADMAP.md`
 - [ ] Créer le projet Spring Boot
 - [ ] Nommer le projet `budget-tracker-api`
 - [ ] Utiliser le package `fr.bastien.budgettracker`
